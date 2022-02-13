@@ -1,6 +1,6 @@
 //SPDX-License_Identifier: MIT
 pragma solidity ^0.6.0;
-contract simpleStorage{
+contract SimpleStorage{
 
     uint256 favoriteNumber;
     bool favoriteBool;
